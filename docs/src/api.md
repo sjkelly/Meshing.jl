@@ -32,7 +32,7 @@ isosurface
 
 ## Meshing Algorithms
 
-Three meshing algorithms exist:
+Two meshing algorithms exist:
 
 * `MarchingCubes()`
 * `MarchingTetrahedra()`
